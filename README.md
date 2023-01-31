@@ -1,4 +1,4 @@
-## Data analytics in finance involves using data and statistical techniques to analyze financial data to identify patterns, trends, and relationships that can inform financial decision making. Fundamental aspects of data analytics in finance include:
+Data analytics in finance involves using data and statistical techniques to analyze financial data to identify patterns, trends, and relationships that can inform financial decision making. Fundamental aspects of data analytics in finance include:
 
 1. Data Collection: Gathering financial data from various sources such as market data, transaction data, and news data.
 
@@ -18,4 +18,12 @@ These fundamental aspects form the foundation of data analytics in finance and c
 
 
 
+# Project
+![problems](/prof-fin-analytics-w-excel.png)
 
+# Asking the right question
+### PT XYZ has Account Receivable data for the closing period February 28, 2022. From the data, the questions that can be asked are:
+1. How much is there (in rupiah) payment of receivables from last period (January) to this period (February)
+2. How many amounts (in rupiah) of receivables payments have deteriorated in this period
+3. How many are there (in percent) receivables that returned current in this period this period?
+4. How much (in rupiah) is the amount of receivables that have difficulty paying (Non-performing Financing)
