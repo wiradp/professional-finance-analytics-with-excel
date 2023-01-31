@@ -19,7 +19,7 @@ These fundamental aspects form the foundation of data analytics in finance and c
 
 
 # Project
-![problems](/prof-fin-analytics-w-excel.png)
+![problems](/img/1.png)
 
 # Asking the right question
 ### PT XYZ has Account Receivable data for the closing period February 28, 2022. From the data, the questions that can be asked are:
@@ -27,3 +27,11 @@ These fundamental aspects form the foundation of data analytics in finance and c
 2. How many amounts (in rupiah) of receivables payments have deteriorated in this period
 3. How many are there (in percent) receivables that returned current in this period this period?
 4. How much (in rupiah) is the amount of receivables that have difficulty paying (Non-performing Financing)
+
+![dataset](/img/2.png)
+
+## Data Cleansing Process
+1. Ensure there are no there are no blank values in the data set
+2. Sort the number sequence that was originally out of sequence
+3. Uniformize the data type of each column (example: Number, Date, Currency)
+
