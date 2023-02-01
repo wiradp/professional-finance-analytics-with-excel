@@ -72,5 +72,16 @@ Back to Current is the condition of payment of receivables that were not smooth,
 
 How many are there (in percent) receivables that returned current in this period this period ?
 
+![backtocurrent10percen](img/back-to-current-10.png)
+
+
+
+## Non-performing Financing (NPF)
+
+Non-performing Financing (NPF) is receivables that have difficulty paying. Based on the summary data, PT XYZ in the closing period of February 2022 has Rp52,894,973,410 in unpaid receivables up to 4 months and above. A large enough amount needs further analysis to find the cause.
+
+How many amounts (in rupiah) of receivables that are in difficulty paying (Nonperforming Financing) ?
+
+![nonperformingfinancial](img/non-performing-fin.png)
 
 
