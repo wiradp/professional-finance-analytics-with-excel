@@ -27,11 +27,50 @@ These fundamental aspects form the foundation of data analytics in finance and c
 2. How many amounts (in rupiah) of receivables payments have deteriorated in this period
 3. How many are there (in percent) receivables that returned current in this period this period?
 4. How much (in rupiah) is the amount of receivables that have difficulty paying (Non-performing Financing)
-
 ![dataset](/img/2.png)
+
 
 ## Data Cleansing Process
 1. Ensure there are no there are no blank values in the data set
 2. Sort the number sequence that was originally out of sequence
 3. Uniformize the data type of each column (example: Number, Date, Currency)
+
+
+## Descriptive Analysis
+![descriptiveanalysis](/img/data-descriptive.png)
+
+
+## Data Summary
+![datasummary](img/data-summary.png)
+
+
+## Current to Current 
+Current to Current is a condition of payment of receivables that in the previous period was smooth,and in this period is also current (paid before maturity). Based on summary data, PT XYZ has IDR 355,022,459,564 (84.47%) of current receivables for the period of February 28, 2022. This amount is still relatively good because most customers are still able to pay before the due date.
+
+How much is there (in rupiah) payment of receivables from last period (January) to this period (February) ?
+![currenttocurrent](img/currenttocurrent.png)
+
+
+## Rate Flow
+![rateflow](img/rate-flow.png)
+
+Rate Flow is the value for the condition of receivables payments that are getting worse in this period. Based on the summary data, PT XYZ has an average of Rp 28,328,151,313.50 receivables whose payments are getting worse in the closing period of February 28, 2022.
+
+* With Rp 65,262,293,700 receivables that were previously paid before maturity, then became delinquent in the first month.
+
+* Rp 39,180,894,093.00 receivables that were previously in arrears for 1 month, then again in arrears in the 2nd month.
+
+* Rp 5,773,323,936.00 receivables that were previously 2 months in arrears, then became delinquent again in the 3rd month.
+
+* Rp 3,096,093,525.00 receivables that were previously in arrears for 2 months, then again in arrears in the 4th month etc.
+
+
+## Back to Current
+![backtocurrent](img/backtocurrent.png)
+
+Back to Current is the condition of payment of receivables that were not smooth, then returned to smooth (paid before maturity). Based on the existing summary data, there are 10% of receivables that are paid back before maturity at PT XYZ for the closing period February 28, 2022. The 10% percentage needs to be further investigated for the cause, because the receivables that return to current are still relatively low.
+
+How many are there (in percent) receivables that returned current in this period this period ?
+
+
 
