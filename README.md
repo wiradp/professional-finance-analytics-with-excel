@@ -1,3 +1,6 @@
+![sertificate](img/seriticate.png)
+
+
 Data analytics in finance involves using data and statistical techniques to analyze financial data to identify patterns, trends, and relationships that can inform financial decision making. Fundamental aspects of data analytics in finance include:
 
 1. Data Collection: Gathering financial data from various sources such as market data, transaction data, and news data.
